@@ -42,14 +42,14 @@ NB remeber to add it to the blueprint too!
 <br>
 ![alt text](https://drive.google.com/thumbnail?id=1ZiZF8rcIpR8ty5O3uGZyy1UblY7Ihlex&sz=w1920-h1080)
 
-
+<br><br>
 
 ## Notes
 In order to build the server and test it as standalone you need two additional maps:
-
-1- <b>Default Client level (that point at the server ip)<b>
-2- <b>Transition level (loading)<b>
-
-
+<br>
+1- <b>Default Client level (that point at the server ip)</b><br>
+2- <b>Transition level (loading)</b><br>
+<br>
+<br>
 I added both in first version but the Ue4 Marketplace staff asked me to remove them because the [Open Level] function pointing at 127.0.0.1 was not working without a server.
 
